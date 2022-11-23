@@ -2,4 +2,4 @@ function sum(x, y) {
     return x + y;
 }
 
-console.log(sum(2, 4));
+console.log("Sum of 2 and 4 is ", sum(2, 4));
